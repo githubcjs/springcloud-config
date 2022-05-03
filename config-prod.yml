@@ -1,2 +1,2 @@
 config:
-  info: "this is master branch,config-prod.yml version=1"
+  info: "this is prod branch,config-prod.yml version=1"
